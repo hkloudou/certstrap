@@ -5,6 +5,8 @@ default:
 	@make reset
 init:
 	./build
+git:
+	
 ssl:
 	rm -rf out
 	#ca
