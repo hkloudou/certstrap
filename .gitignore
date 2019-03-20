@@ -2,3 +2,5 @@ gopath
 bin
 out
 certstrap
+
+key.mk

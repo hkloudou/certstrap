@@ -26,7 +26,7 @@ certstrap can init multiple certificate authorities to sign certificates with.  
 certstrap must be built with Go 1.4+. You can build certstrap from source:
 
 ```
-$ git clone https://github.com/square/certstrap
+$ git clone https://github.com/hkloudou/certstrap
 $ cd certstrap
 $ ./build
 ```

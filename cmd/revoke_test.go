@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/square/certstrap/depot"
-	"github.com/square/certstrap/pkix"
+	"github.com/hkloudou/certstrap/depot"
+	"github.com/hkloudou/certstrap/pkix"
 	"github.com/urfave/cli"
 )
 
