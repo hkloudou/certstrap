@@ -1,11 +1,10 @@
-include "./key.mk"
+include ./key.mk
 default:
-	@make build
 	@make ssl
 	@make cp
 	@make reset
-build:
-	
+init:
+	./build
 ssl:
 	rm -rf out
 	#ca
