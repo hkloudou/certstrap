@@ -6,3 +6,5 @@ require (
 	github.com/urfave/cli v1.20.0
 	golang.org/x/crypto v0.0.0-20190313024323-a1f597ede03a // indirect
 )
+
+go 1.13
